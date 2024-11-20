@@ -1,0 +1,15 @@
+.bar {
+    background-color: #0059ff;
+    border : 2px;
+    margin : 4px;
+    
+}
+
+table {
+    border-spacing: 60px 10px;
+}
+
+#hover :hover {
+    background-color : rgb(148, 187, 63);
+    
+}

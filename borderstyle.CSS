@@ -1,0 +1,16 @@
+.bar {
+    background-color: red;
+    display : block;
+    padding: 14px 16px ;
+    font-size : 17px;
+    word-spacing : 60px ;
+}
+
+a :hover {
+    background-color: black;
+    
+}
+
+b {
+    color: white;
+}
